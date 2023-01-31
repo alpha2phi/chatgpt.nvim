@@ -1,0 +1,2 @@
+git+https://github.com/mmabrouk/chatgpt-wrapper
+pytest-playwright
